@@ -11,5 +11,5 @@ Projeto para o curso de Architecture Components - DataBinding.
 - __Navigation__ - Navegação entre interfaces
 - __Room__ –        Persistência de dados
 - __Coroutines__ –  Processamento assíncrono
-- __koin__ - Injeção de Dependencia
+- __koin__ - Injeção de Dependência
 - __Glide__ –       Carregmento / Cache de Imagens
