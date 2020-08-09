@@ -9,6 +9,7 @@ Projeto para o curso de Architecture Components - DataBinding.
 - __LiveData__ –    Armazenamento de dados observáveis ligado ao ciclo de vida de componentes
 - __Room__ –        Persistência de dados
 - __Coroutines__ –  Processamento assíncrono
+- __koin__ - Injeção de Dependencia
 - __Glide__ –       Carregmento / Cache de Imagens
 
  
